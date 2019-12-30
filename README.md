@@ -11,5 +11,7 @@ Running the "file command" on this file we realize its not a gif file but is jus
 
 If you open this file in any sort of "hexeditor" you will find that the header bytes are " 41 41 41 41 41 ", This is not the default gif header bytes,What we do now is replace these bytes with the actual gif header format bytes which is "47 49 46 38 39". Now we save this file.Voila! There you get your flag.
 
+![Screenshot from 2019-12-30 21-36-02](https://user-images.githubusercontent.com/46860321/71590356-2667c600-2b4e-11ea-8c34-a94ead0b1c58.png)
+
 
 
