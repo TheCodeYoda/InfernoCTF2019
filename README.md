@@ -13,5 +13,9 @@ If you open this file in any sort of "hexeditor" you will find that the header b
 
 ![Screenshot from 2019-12-30 21-36-02](https://user-images.githubusercontent.com/46860321/71590356-2667c600-2b4e-11ea-8c34-a94ead0b1c58.png)
 
+After replacing the hexbytes...
+
+![Screenshot from 2019-12-30 21-37-15](https://user-images.githubusercontent.com/46860321/71590394-47301b80-2b4e-11ea-9531-0a2b5c4f60d4.png)
+
 
 
